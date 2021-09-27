@@ -15,6 +15,6 @@ Install the following Github plugins and actions
 
 For each client a monorepo is created which contains all the different Projects associated with it. Also for ease to the client an e-mail is created that auto creates tickets for each client.
 
-- [] [Create e-mail for client using Fire](https://fire.fundersclub.com)
+- [ ] [Create e-mail for client using Fire](https://fire.fundersclub.com)
 
 
