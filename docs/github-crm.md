@@ -11,6 +11,10 @@ First I created an [`organization`](https://docs.github.com/en/organizations/col
 Install the following Github plugins and actions
 - [weekly-digest](https://github.com/apps/weekly-digest)
 
-## Projects
+## Clients & Projects
+
+For each client a monorepo is created which contains all the different Projects associated with it. Also for ease to the client an e-mail is created that auto creates tickets for each client.
+
+- [] [Create e-mail for client using Fire](https://fire.fundersclub.com)
 
 
